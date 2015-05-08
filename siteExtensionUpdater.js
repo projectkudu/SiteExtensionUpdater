@@ -16,7 +16,7 @@
         var match = siteExtensionNameRegex.exec(url);
 
         var siteExtensionName = null;
-        if (!match && match.length > 1) {
+        if (match && match.length > 1) {
             siteExtensionName = match[1];
         }
 
