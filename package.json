@@ -1,0 +1,30 @@
+{
+  "name": "SiteExtensionUpdater",
+  "version": "1.0.0",
+  "description": "Auto-update your Azure Site Extensions",
+  "main": "siteExtensionUpdater.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt": "^0.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/projectkudu/SiteExtensionUpdater.git"
+  },
+  "keywords": [
+    "Azure",
+    "AzureAppService",
+    "SiteExtensions",
+    "AzureWebsites"
+  ],
+  "author": "Zain Rizvi",
+  "bugs": {
+    "url": "https://github.com/projectkudu/SiteExtensionUpdater/issues"
+  },
+  "homepage": "https://github.com/projectkudu/SiteExtensionUpdater"
+}
