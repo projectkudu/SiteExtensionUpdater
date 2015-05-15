@@ -1,3 +1,7 @@
+//
+// Azure Site Extension updater v1.0.0
+//
+
 (function () {   
             
     // The site extension's name should be part of the url.

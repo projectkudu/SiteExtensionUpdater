@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Auto-update your Azure Site Extensions",
   "main": "siteExtensionUpdater.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "grunt-contrib-uglify": "^0.9.1",
-    "grunt": "^0.4.5"
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-uglify": "^0.9.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
