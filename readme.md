@@ -8,6 +8,7 @@ Updating those site extensions is a bit of a hassle though. When you publish a n
 We’re introducing a way for you to make your site extensions auto-update themselves with just one line of code. 
 
 ##Enable auto-updates
+###One liner
 The auto-update feature works for site extensions with a UI.  
 To make your site extension auto-update you just need to include the following script tag in your site extension’s home page (or any page your users will often visit):
 
