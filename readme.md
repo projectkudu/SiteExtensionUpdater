@@ -19,6 +19,14 @@ Now every time anyone navigates to your site extension, in the background the sc
 
 All in just a few seconds.
 
+###Install via Bower
+If you prefer using Bower we've got you covered there as well.
+
+You can install the script via bower by running 
+```shell
+bower install  azure-site-extension-updater
+```
+
 ##Using a custom applicationHost.xdt file
 If you don’t use an applicationHost.xdt file for your site extension, you can skip this section.  If you do, there’s something you need to be aware of.
 
