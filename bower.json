@@ -1,0 +1,25 @@
+{
+  "name": "site-extension-updater",
+  "version": "1.0.0",
+  "homepage": "https://github.com/projectkudu/SiteExtensionUpdater",
+  "authors": [
+    "ZainRizvi <ZainRizvi@users.noreply.github.com>"
+  ],
+  "description": "Auto-update your Azure Site Extensions",
+  "main": "src/siteExtensionUpdater.js",
+  "keywords": [
+    "azure",
+    "site-extension",
+    "azure-site-extension",
+    "azure-web-app",
+    "azure-websites"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
