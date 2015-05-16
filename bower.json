@@ -1,5 +1,5 @@
 {
-  "name": "site-extension-updater",
+  "name": "azure-site-extension-updater",
   "version": "1.0.0",
   "homepage": "https://github.com/projectkudu/SiteExtensionUpdater",
   "authors": [
