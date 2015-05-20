@@ -12,7 +12,7 @@ We’re introducing a way for you to make your site extensions auto-update thems
 The auto-update feature works for site extensions with a UI.  
 To make your site extension auto-update you just need to include the following script tag in your site extension’s home page (or any page your users will often visit):
 
-    <script src="http://az761500.vo.msecnd.net/publicscripts/siteExtensionUpdater.1.0.0.min.js"></script>
+    <script src="http://cdn.siteextensions.net/lib/siteExtensionUpdater/siteExtensionUpdater.1.0.0.min.js"></script>
 
 Simple as that.
 
