@@ -1,5 +1,6 @@
 //
 // Azure Site Extension updater v{projectVersion}
+// Source: https://github.com/projectkudu/SiteExtensionUpdater
 //
 
 (function () {   
